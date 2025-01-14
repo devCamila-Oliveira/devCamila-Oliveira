@@ -5,7 +5,7 @@
 
 # 
 
-<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack com Angular e Java.
+<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack no setor bancário, desenvolvendo com Angular e Java.
   
 #
 
