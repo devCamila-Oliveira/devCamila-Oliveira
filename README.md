@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F736B2&width=435&lines=%E2%9C%BF+Welcome+to+my+profile!++%E2%9C%BF" alt="Typing SVG" /></a>
 
 <div style="display: inline_block" align=start >
     <img alt="HTML" height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
@@ -18,7 +18,7 @@
 </picture>
 <!--
 **devCamila-Oliveira/devCamila-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 
