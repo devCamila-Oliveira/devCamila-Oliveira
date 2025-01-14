@@ -5,17 +5,13 @@
 
 # 
 
-<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack com Angular e Java =)
+<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack com Angular e Java.
+  
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:devcamilasouza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/camila-souza-95717a211/)
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
@@ -34,6 +30,10 @@
 </div>
 
 #
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:devcamilasouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/camila-souza-95717a211/)
+
 <!--
 <div style="display: inline_block" align=start >
     <img alt="HTML" height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
