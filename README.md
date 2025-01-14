@@ -5,7 +5,7 @@
 
 # 
 
-<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack com Angular e Java.
+<p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack com Angular e Java =)
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -34,7 +34,6 @@
 </div>
 
 #
-----------
 <!--
 <div style="display: inline_block" align=start >
     <img alt="HTML" height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
