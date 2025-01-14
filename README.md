@@ -3,11 +3,8 @@
   </a>
 </div>
 
-# 
-
 <p align="center">Formada em Sistemas de Informação. Atualmente trabalho como fullstack no setor bancário, desenvolvendo com Angular e Java.
   
-#
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -32,8 +29,6 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" alt="angular logo"/>
 </div>
-
-#
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:devcamilasouza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/camila-souza-95717a211/)
