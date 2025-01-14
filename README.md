@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: inline_block" align=center >
+<div style="display: inline_block" align=start >
     <img alt="HTML" height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
     <img alt="HTML" height="20" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img alt="HTML" height="20" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
