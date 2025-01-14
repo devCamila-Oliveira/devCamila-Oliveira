@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-🔭 Hoje trabalho como fullstack
-🌱 Estudando AWS
-
 <div style="display: inline_block" align=center >
     <img alt="HTML" height="20" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
     <img alt="HTML" height="20" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
